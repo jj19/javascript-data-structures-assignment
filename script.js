@@ -33,6 +33,28 @@ let mySampleObject = {
 
 //Make sure to make at least 3 animal objects with these keys inside of the myZooAnimals array!
 
-let myZooAnimals;
+let myZooAnimals = [{
+  animalType: "Dog",
+  name: "Ben",
+  age: 3,
+  pictureURL: "https://images.unsplash.com/photo-1590319541269-4513d04a9d6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2024&q=80"
+},{
+  animalType: "Cat",
+  name: "Angela",
+  age: 4,
+  pictureURL:"https://images.unsplash.com/photo-1572590285030-0ae6a4715671?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+},{
+  animalType: "Fish",
+  name: "Nemo",
+  age: 1,
+  pictureURL:"https://images.unsplash.com/photo-1542454520-7455ce6eb991?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1774&q=80"
+}, {
+  animalType: "Sinbiote",
+  name: "Mark Zuckerberg",
+  age: 714,
+  pictureURL: "https://cdn.vox-cdn.com/thumbor/vpucUMUmqNaTMXxNVNSwGgSQJCo=/0x0:5238x3492/1200x800/filters:focal(3228x1307:4066x2145)/cdn.vox-cdn.com/uploads/chorus_image/image/65544609/1182969866.jpg.0.jpg"
+}
+  
+]
 
 //END OF ASSIGNMENT
